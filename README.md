@@ -8,6 +8,8 @@ A modern implementation of the classic Color Lines game built with LÖVE2D (Lua)
 
 Colorz is a puzzle game where you move colored balls across a 9×9 grid to form lines of 5 or more matching colors. When a line is formed, the balls disappear, and you score points. The challenge comes from new balls that appear after each move unless you form a chain.
 
+![Colorz Screenshot on Windows 11](screenshot.png)
+
 ## Features
 
 - **Core Gameplay:**
